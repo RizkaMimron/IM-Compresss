@@ -60,7 +60,7 @@ def audio_compression():
 
 # Define page for image compression
 def image_compression():
-    st.title("Image Compression")
+    st.title("Image Compressions")
     
     # Sidebar
     st.sidebar.title("Settings")
